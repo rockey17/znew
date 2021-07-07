@@ -23,9 +23,9 @@ Hello {} My name is {}! - I am pro group manager bot .
 
 I can help you to manage your groups easily . 
 
-Hit /help to know about my modules .
+Hit /help to know about my info .
 
-This Bot is part of @AmazingTechz. 
+This Bot dev and owner = radical_1111. 
 
 """
 
@@ -45,7 +45,7 @@ the things I can help you with.
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-DONATE_STRING = """I am rich 💸, Then also if you want to donate so pay me via [Paypal](https://www.paypal.me/kunaldiwan1) ."""
+DONATE_STRING = """I am poor 💸, Then also if you want to donate so pay me trx please pm @radical_1111 to donate."""
 
 IMPORTED = {}
 MIGRATEABLE = []
