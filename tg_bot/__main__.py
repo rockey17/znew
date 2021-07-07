@@ -142,9 +142,9 @@ def start(bot: Bot, update: Update, args: List[str]):
                 PM_START_TEXT.format(escape_markdown(first_name), escape_markdown(bot.first_name), OWNER_ID),
 
                 parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup(
-                    [[InlineKeyboardButton(text="➕ Add me ➕", url="t.me/{}?startgroup=true".format(bot.username)),  InlineKeyboardButton(text="🤖 Create own Bot", url="https://youtu.be/nJqnJY4_z9Q")],
-                     [InlineKeyboardButton(text="👥 Support Group", url="https://t.me/AmazingTechzGroup"), InlineKeyboardButton(text="🔔 Update Channel", url="https://t.me/Amazing_Techz")],
-                     [InlineKeyboardButton(text="🎬 Youtube Channel", url="https://youtube.com/channel/UCblGiyplvlcBJi89DGcY2lA"), InlineKeyboardButton(text="🛠 Help", url="https://t.me/{}?start=help".format(bot.username)) ]]))
+                    [[InlineKeyboardButton(text="➕ Add me ➕", url="t.me/{}?startgroup=true".format(bot.username)),  InlineKeyboardButton(text="🤖 developer", url="https://t.me/radical_1111")],
+                     [InlineKeyboardButton(text="👥 Support Group", url="https://t.me/updatehxhdyd"), InlineKeyboardButton(text="🔔 Update Channel", url="https://t.me/updatehxhdyd")],
+                     [InlineKeyboardButton(text="owner", url="https://t.me/radical_1111"), InlineKeyboardButton(text="🛠 Help", url="https://t.me/{}?start=help".format(bot.username)) ]]))
 
     else:
         update.effective_message.reply_text("Not dead ...")
