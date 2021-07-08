@@ -1,19 +1,19 @@
 ![Amazing Techz bot](https://telegra.ph/file/7e947b66827776f5dac14.jpg)
 
-# Amazing Techz Bot 
+# @conespoxs Bot 
 
-## Telegram Python bot .
+## Telegram Python bot Made By Conespoxs.
 
 Amazing group management bot with multiple admin features, it has evolved, becoming extremely modular and 
 simple to use.
 
-Can be found on telegram as [Amazing Techz](https://t.me/AmazingTechzBot).
+I can be found on telegram as [Conespoxs](https://t.me/Conespoxs).
 
-Join the [Updates channel](https://t.me/Amazing_Techz) to get more bots and news about bots .  
+Botfather [](https://t.me/botfather) to get more bots and news about bots .  
 
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kunaldiwan/AmazingTechz)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rockey17/znew)
 
 ## Starting the bot.
 
